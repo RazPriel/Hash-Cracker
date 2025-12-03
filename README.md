@@ -1,2 +1,2 @@
 # Hash-Cracker
-This is another project that I have created in order to stand out in the IDF tests for Gama Cyber and other cyber related roles.
+This is another project that I have created in order to stand out in the IDF tests for Gama Cyber and other cyber related roles. This is a Hash Cracker which allows you to try and bruteforce a hash value through a wordlist file to try and find the hash value. It works by encrypting each password in the wordlist and comparing it to the provided hash, If there is a match than the hash value is discovered. This app is only coded to work for MD5 and SHA1 but it can be easily edited to have all sorts of hash types.
